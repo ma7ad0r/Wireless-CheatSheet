@@ -1,8 +1,8 @@
-AIRCRACK-NG
-
 https://www.aircrack-ng.org/doku.php?id=simple_wep_crack
 
- Here are the basic steps we will be going through:
+Cracking WEP with AIRCRACK-NG
+
+Here are the basic steps we will be going through:
 
     Start the wireless interface in monitor mode on the specific AP channel
     Test the injection capability of the wireless device to the AP
